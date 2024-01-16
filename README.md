@@ -6,8 +6,8 @@ Whenever the enemies leave the screen, the health is deducted, and the opposite 
 
 ## To do
 
-- Center the game in the middle of the screen
+- Center the game in the middle of the screen.
+- Include diverse features in different levels of Difficulty.
 
-### Enjoy,
 ### Hirwa Arnold
 
